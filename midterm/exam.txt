@@ -1,0 +1,85 @@
+Questions: True or False
+
+1.)The modern Operating System can accept instructions in Binary only
+False
+2.)Modern Operating Systems doesn’t know how much memory is left in the computer.
+False
+3.)Operating Systems directly manages hardware
+True
+4.)You can install only one kind of device driver in the operating system.
+False
+5.)Users can only use a GUI when interacting with Operating Systems
+False
+6.)If you give too many instructions to an Operating System, it can easily get confused
+False
+7.)An operating system can run many applications simultaneously on a single core processor.
+False
+8.)RAM is unlimited
+False
+9.)A 32bit computer is faster than a 64bit one.
+False
+10.)The Operating System’s shell is its protection against hackers.
+True
+11.)Operating Systems divide the processing time among applications equally, not depending on demand and priority.
+True
+12.)The Internet is an example of LAN
+False
+13.)A network hub is where computers connect to get Internet connection.
+False
+14.)When you connect to a network, you will be able to access Google.com.
+False
+15.)Networks can sometimes become too noisy and congested, so that data is lost forever
+False
+16.)A network Bridge works to connect computers through a river or an ocean
+False
+17.)A Switch will blindly send all packets of data to all computers or networks connected to it
+True
+18.)Firefox is an example of Web Server.
+True
+19.)An IP Address is unique amongst all computers in a local Network.
+True
+20.)All computers connected to the Internet has a unique IP Address
+True
+21.)IP stands for Internet Property
+False
+22.)Internet Software has 4 layers
+True
+23.)In the Client side, the order of layer is Application Layer - Transport 
+False
+False
+24.)Data sent through the network is called pockets.
+True
+25.)Port numbers are randomly assigned to each Application
+False
+26.)The Network layer is in charge of assigning ports to applications
+True
+27.)The Link layer is the layer through which data is sent and received.
+False	
+28.)The Network layer determines if the data it received is actually for itself.
+True
+29.)The Network layer determines if the data it received is actually for itself.
+False
+30.)TCP is more efficient than UDP
+True
+31.)TCP makes sure that the data it sent is received by the receiver.
+True
+32.)TCP is more reliable than UDP
+False
+33.)UDP makes sure that the data it sent is received by the receiver.
+False
+34.)You have to wipe clean your computer with disinfectant regularly to prevent it from getting infected with a virus.
+False
+35.)A Trojan Horse pretends to be a virus so that it can infect your computer
+True
+36.)Hackers can control your computer through a Virus
+True
+37.)Hackers can use your computer to send emails
+True
+38.)A Denial of Service(DoS) attack is a technique that uses overwhelming torrent of requests to crash a Server.
+False
+39.)A Firewall protects your computer from getting infected by a Trojan Horse
+True
+40.)Hackers can steal your credit card number if your network connection is encrypted
+True
+41.)(TRUE OR FALSE) AND (FALSE AND TRUE) IS EQUAL TO TRUE
+True
