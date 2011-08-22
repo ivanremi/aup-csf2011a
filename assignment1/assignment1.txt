@@ -1,0 +1,18 @@
+what are the HTML tags that can be include inside the head tag and body tag.
+
+    a.head 
+	1.<title>
+	2.<style>
+	3.<script>
+	4.<meta>
+	5.<link>
+	6.<base>
+
+
+    b.body
+	1.text
+	2.hypretext
+	3.images
+	4.tables
+	5.list
+
